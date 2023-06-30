@@ -1,6 +1,6 @@
 # goit-node-hw-01
 
-#РЕЗУЛЬТАТ
+# РЕЗУЛЬТАТ
 
 <div style="display: flex; flex-direction: row; flex-wrap:wrap; gap:20px">
 <img src="https://github.com/savchyndd/goit-node-hw-01/assets/96209694/8994172d-dec2-4f22-8fd4-470664f84946" width="400" height="180">

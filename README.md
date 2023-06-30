@@ -3,10 +3,10 @@
 #РЕЗУЛЬТАТ
 
 <div style="display: flex; flex-direction: row; flex-wrap:wrap; gap:20px">
-<img src=""  width="200" height="380">
-<img src=""  width="200" height="380">
-<img src=""  width="200" height="380">
-<img src=""  width="200" height="380">
+<img src="https://github.com/savchyndd/goit-node-hw-01/assets/96209694/8994172d-dec2-4f22-8fd4-470664f84946" width="400" height="180">
+<img src="https://github.com/savchyndd/goit-node-hw-01/assets/96209694/6a67f828-0515-4883-83ad-5e85ee3ccb57" width="400" height="180">
+<img src="https://github.com/savchyndd/goit-node-hw-01/assets/96209694/e79907b6-3830-4edf-aaa9-68f3da3d0535" width="400" height="180">
+<img src="https://github.com/savchyndd/goit-node-hw-01/assets/96209694/56e00e47-adca-47e1-beb8-08cf3189ec88" width="400" height="180">
 </div>
 
 ## Критерії прийому
